@@ -1,3 +1,5 @@
 This is a test file.
 
 This is a second line added in GitHub.
+
+This is a third line.
